@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{F4113164-A62C-AF3D-279A-8D26AA5C4AFF}") = "MidiVel", "MidiVel.vcxproj", "{11E7EF4C-5393-5C9D-FB10-A4496F5C271F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E7EF4C-5393-5C9D-FB10-A4496F5C271F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11E7EF4C-5393-5C9D-FB10-A4496F5C271F}.Debug|Win32.Build.0 = Debug|Win32
+		{11E7EF4C-5393-5C9D-FB10-A4496F5C271F}.Release|Win32.ActiveCfg = Release|Win32
+		{11E7EF4C-5393-5C9D-FB10-A4496F5C271F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
